@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="20260501_213045.jpg" alt="GSHelper Banner" width="100%" style="border-radius: 15px;"/>
 </div>
 
@@ -60,9 +60,8 @@ I am passionate about integrating emerging technologies into my work. I leverage
 ### 📈 My GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/NaNshoes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaNshoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaNshoes&layout=compact&theme=tokyonight"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=NaNShoes&theme=highcontrast&hide_border=true&mode=weekly" alt="GitHub Streak" style="margin-bottom: 20px;" />
   </a>
 </div>
 
@@ -73,4 +72,3 @@ I am passionate about integrating emerging technologies into my work. I leverage
 <p align="center">
   <i>Always open to discussing game development, blockchain integrations, AI, or UI/UX design!</i>
 </p>
- 
