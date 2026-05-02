@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+Jesús+Fernando+Santana+👋;Game+Developer+%7C+Web3+%7C+UI%2FUX;gshelper+Development+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+TYNI+DEVB+👋;Game+Developer+%7C+Web3+%7C+UI%2FUX;gshelper+Development+Team" alt="Typing SVG" />
 </div>
 
 ---
