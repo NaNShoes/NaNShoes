@@ -61,7 +61,7 @@ I am passionate about integrating emerging technologies into my work. I leverage
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=NaNShoes&theme=highcontrast&hide_border=true&mode=weekly" alt="GitHub Streak" style="margin-bottom: 20px;" />
+    <img src="https://streak-stats.demolab.com?user=NaNShoes&theme=highcontrast&hide_border=true&mode=weekly&v=1" alt="GitHub Streak" style="margin-bottom: 20px;" />
   </a>
 </div>
 
