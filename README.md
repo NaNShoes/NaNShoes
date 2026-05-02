@@ -1,11 +1,11 @@
-<div align="center">
+ <div align="center">
   <img src="20260501_213045.jpg" alt="GSHelper Banner" width="100%" style="border-radius: 15px;"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+TYNI+DEVB+👋;Game+Developer+%7C+Web3+%7C+UI%2FUX;GSHelper+Development+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+Jesús+Fernando+Santana+👋;Game+Developer+%7C+Web3+%7C+UI%2FUX;gshelper+Development+Team" alt="Typing SVG" />
 </div>
 
 ---
@@ -22,12 +22,22 @@ I am passionate about integrating emerging technologies into my work. I leverage
 
 <div align="center">
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phaser-81499C?style=for-the-badge&logo=phaser&logoColor=white" />
+  <img src="https://img.shields.io/badge/GameSalad-FF6F00?style=for-the-badge&logo=game-engines&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlayFab-000000?style=for-the-badge&logo=playfab&logoColor=white" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-  
-  <br><br>
-  
+
+  <br>
+
   <img src="https://img.shields.io/badge/Cursor.ai-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf_Pro_AI-0EA5E9?style=for-the-badge&logo=abstract&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_AntiGravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -63,3 +73,4 @@ I am passionate about integrating emerging technologies into my work. I leverage
 <p align="center">
   <i>Always open to discussing game development, blockchain integrations, AI, or UI/UX design!</i>
 </p>
+ 
