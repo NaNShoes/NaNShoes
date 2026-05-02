@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/0d1117/3B82F6?text=TU+BANNER+AQUI+(Sube+tu+imagen+y+pega+el+link+en+el+código)" alt="Banner de Perfil" width="100%" style="border-radius: 15px;"/>
+  <img src="AQUI_PONES_EL_LINK_DE_TU_IMAGEN.jpg" alt="GSHelper Banner" width="100%" style="border-radius: 15px;"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Jesús+Fernando+Santana+👋;Game+Developer+%7C+Web3+%7C+UI%2FUX;Equipo+de+desarrollo+de+gshelper" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Jesús+Fernando+Santana+👋;Game+Developer+%7C+Web3+%7C+UI%2FUX;Equipo+de+desarrollo+de+gshelper" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="200" alt="Dino Chrome">
 </div>
 
 ---
@@ -69,6 +73,3 @@ Me apasiona integrar tecnologías emergentes en mis proyectos. Aprovecho todo el
     <img src="https://img.shields.io/badge/Portafolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" />
   </a>
 </div>
-<p align="center">
-  <i>¡Siempre abierto a discutir sobre desarrollo de juegos, integraciones blockchain, IA o diseño de interfaces!</i>
-</p>
