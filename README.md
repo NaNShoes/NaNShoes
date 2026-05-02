@@ -1,23 +1,24 @@
-<div align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-3B82F6?style=for-the-badge" alt="ES" /></a>
-  <a href="README-en.md"><img src="https://img.shields.io/badge/🇬🇧_ENGLISH-252525?style=for-the-badge" alt="EN" /></a>
+<div align="center">
+  <img src="https://via.placeholder.com/1500x500/0d1117/3B82F6?text=TU+BANNER+AQUI+(Sube+tu+imagen+y+pega+el+link+en+el+código)" alt="Banner de Perfil" width="100%" style="border-radius: 15px;"/>
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi!+I'm+Jesús+Fernando+Santana+👋;Game+Developer+%7C+Web3+%7C+UI%2FUX;Development+team+at+gshelper" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Jesús+Fernando+Santana+👋;Game+Developer+%7C+Web3+%7C+UI%2FUX;Equipo+de+desarrollo+de+gshelper" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mí
 
-I am a **Professional Software Developer** specializing in video game creation, web platforms, and mobile applications. Currently, I am proud to be part of the development team at **[gshelper.com](https://gshelper.com)**, collaborating to take ideas to the next level while actively managing my own interactive projects.
+Soy un **Desarrollador de Software Profesional** especializado en la creación de videojuegos, plataformas web y aplicaciones móviles. Actualmente, me enorgullece ser parte del equipo de desarrollo de **[gshelper.com](https://gshelper.com)**, colaborando para llevar ideas al siguiente nivel y gestionando activamente mis propios proyectos interactivos.
 
-I am passionate about integrating emerging technologies into my work. I leverage the full power of **Artificial Intelligence** tools to optimize code generation and deeply explore the **Web3** ecosystem, always maintaining a strong focus on **UI/UX** design to create polished and immersive experiences.
+Me apasiona integrar tecnologías emergentes en mis proyectos. Aprovecho todo el poder de las herramientas de **Inteligencia Artificial** para optimizar la generación de código y exploro a fondo el ecosistema **Web3**, manteniendo siempre un fuerte enfoque en el diseño **UI/UX** para crear experiencias pulidas e inmersivas.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Stack Tecnológico y Herramientas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
@@ -36,18 +37,18 @@ I am passionate about integrating emerging technologies into my work. I leverage
 
 ---
 
-### 🚀 What I'm currently building
+### 🚀 Lo que estoy construyendo actualmente
 
-| Project | Description | Focus |
+| Proyecto | Descripción | Enfoque |
 | :--- | :--- | :--- |
-| 🏂 **Snowpenguinsurf** | Skiing and snowboarding game focused on fluid physics and mechanics. | `Game Dev` `Physics` |
-| 🎾 **3D Tennis Game** | Interactive project using mobile phones as motion controllers. | `Three.js` `WebSockets` |
-| 👾 **Web3 Development** | NFT integration and UI improvements for `moonsters` and `balltoken`. | `Solana` `Smart Contracts` |
-| 🎮 **Central Ecosystem** | Unified web platform to centralize my game repositories. | `Web Architecture` `UI/UX` |
+| 🏂 **Snowpenguinsurf** | Juego de esquí y snowboard enfocado en físicas y mecánicas fluidas. | `Game Dev` `Físicas` |
+| 🎾 **Juego de Tenis 3D** | Proyecto interactivo usando el móvil como controlador de movimiento. | `Three.js` `WebSockets` |
+| 👾 **Desarrollos Web3** | Integración NFT y mejoras UI para `moonsters` y `balltoken`. | `Solana` `Smart Contracts` |
+| 🎮 **Ecosistema Central** | Plataforma web unificada para centralizar mis repositorios de juegos. | `Arquitectura Web` `UI/UX` |
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 Mis Estadísticas en GitHub
 
 <div align="center">
   <a href="https://github.com/NaNshoes">
@@ -58,16 +59,16 @@ I am passionate about integrating emerging technologies into my work. I leverage
 
 ---
 
-### 📫 Connect with me
+### 📫 Conecta conmigo
 
 <div align="center">
   <a href="TU_ENLACE_A_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="TU_ENLACE_A_TU_WEB">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" />
   </a>
 </div>
 <p align="center">
-  <i>Always open to discussing game development, blockchain integrations, AI, or interface design!</i>
+  <i>¡Siempre abierto a discutir sobre desarrollo de juegos, integraciones blockchain, IA o diseño de interfaces!</i>
 </p>
