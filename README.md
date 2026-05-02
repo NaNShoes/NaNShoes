@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="AQUI_PONES_EL_LINK_DE_TU_IMAGEN.jpg" alt="GSHelper Banner" width="100%" style="border-radius: 15px;"/>
+  <img src="banner.jpg" alt="GSHelper Banner" width="100%" style="border-radius: 15px;"/>
 </div>
 
 <br>
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.gifer.com/ZZ5H.gif" width="200" alt="Dino Chrome">
+  <img src="dino.gif" width="200" alt="Dino Chrome">
 </div>
 
 ---
