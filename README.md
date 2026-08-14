@@ -93,7 +93,13 @@ https://uptimistik.github.io/cngrss/
 
 https://nanshoes.github.io/SocialLandingPage-Template-/
 
-- 
+- 🏙 Mini Marketplace
+
+https://nanshoes.github.io/MiniMarketPlacePage/
+
+- 🍽 Restaurant Page ( Coming Soon )
+
+- 📆 Service Page ( Coming Soon )
 
 ### 📈 My GitHub Stats
 
