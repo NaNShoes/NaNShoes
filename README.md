@@ -41,7 +41,7 @@ Contact me: https://nanshoes.github.io/TYNIDEVBLANDINGPAGE/
   <br>
 
   <img src="https://img.shields.io/badge/Cursor.ai-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windsurf_Pro_AI-0EA5E9?style=for-the-badge&logo=abstract&logoColor=white" />
+  <img src="https://img.shields.io/badge/Devin_Pro_AI-0EA5E9?style=for-the-badge&logo=abstract&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_AntiGravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-2D333B?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -89,6 +89,7 @@ https://uptimistik.github.io/cngrss/
 
 ### 🌌 Websites ( Templates )
 
+- 
 
 ### 📈 My GitHub Stats
 
