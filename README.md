@@ -89,6 +89,10 @@ https://uptimistik.github.io/cngrss/
 
 ### 🌌 Websites ( Templates )
 
+- 🥂 Social Page 👇👇
+
+https://nanshoes.github.io/SocialLandingPage-Template-/
+
 - 
 
 ### 📈 My GitHub Stats
