@@ -57,6 +57,34 @@ I am passionate about integrating emerging technologies into my work. I leverage
 
 ---
 
+### 🕹 Casual Games Portfolio
+
+🏂 GOGLZ Game 👇👇
+
+https://uptimistik.github.io/goglzgame/
+
+🌑 Flappy Moon Game 👇👇
+
+https://uptimistik.github.io/moonsters/
+
+⛄ cokebear Game 👇👇
+
+https://uptimistik.github.io/cokebear/
+
+⛩ shinobiNinja Game 👇👇
+
+https://uptimistik.github.io/shinobiNinja/
+
+🤾‍♂️ MEMEBALL Game 👇👇
+
+https://uptimistik.github.io/balltoken/
+
+🔥 cngrss Game 👇👇
+
+https://uptimistik.github.io/cngrss/
+
+---
+
 ### 📈 My GitHub Stats
 
 <div align="center">
