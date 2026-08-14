@@ -16,6 +16,8 @@ I am a **Professional Software Developer** specializing in video game creation, 
 
 I am passionate about integrating emerging technologies into my work. I leverage the full power of **Artificial Intelligence** tools to streamline code generation and deeply explore the **Web3** ecosystem, always maintaining a strong focus on **UI/UX** design to craft polished and immersive experiences.
 
+Contact me: https://nanshoes.github.io/TYNIDEVBLANDINGPAGE/
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -57,33 +59,36 @@ I am passionate about integrating emerging technologies into my work. I leverage
 
 ---
 
-### 🕹 Casual Games Portfolio
+### 💼🕹 Casual Games Portfolio
 
-🏂 GOGLZ Game 👇👇
+- 🏂 GOGLZ Game 👇👇
 
 https://uptimistik.github.io/goglzgame/
 
-🌑 Flappy Moon Game 👇👇
+- 🌑 Flappy Moon Game 👇👇
 
 https://uptimistik.github.io/moonsters/
 
-⛄ cokebear Game 👇👇
+- ⛄ cokebear Game 👇👇
 
 https://uptimistik.github.io/cokebear/
 
-⛩ shinobiNinja Game 👇👇
+- ⛩ shinobiNinja Game 👇👇
 
 https://uptimistik.github.io/shinobiNinja/
 
-🤾‍♂️ MEMEBALL Game 👇👇
+- 🤾‍♂️ MEMEBALL Game 👇👇
 
 https://uptimistik.github.io/balltoken/
 
-🔥 cngrss Game 👇👇
+- 🔥 cngrss Game 👇👇
 
 https://uptimistik.github.io/cngrss/
 
 ---
+
+### 🌌 Websites ( Templates )
+
 
 ### 📈 My GitHub Stats
 
